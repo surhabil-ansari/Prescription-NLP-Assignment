@@ -41,7 +41,7 @@ Raw Text → Cleaning → NLP (spaCy) → Rule-based Extraction → JSON Output
 
 
 
-# ⚖️ Trade-offs
+# Trade-offs
 
 * Fast and simple
 * Works well for structured prescriptions
