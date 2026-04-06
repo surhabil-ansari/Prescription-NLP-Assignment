@@ -17,13 +17,13 @@ Raw Text:
 
 Output:
 
-* medicine_name: Amitriptyline ✔
-* form: tablet ✔
-* strength: 25 mg ✔
-* dosage: 1 tablet ✔
-* frequency: OD ✔
-* duration: 5 days ✔
-* notes: at bedtime ✔
+* medicine_name: Amitriptyline
+* form: tablet 
+* strength: 25 mg 
+* dosage: 1 tablet 
+* frequency: OD 
+* duration: 5 days 
+* notes: at bedtime 
 
 # All fields were correctly extracted.
 
