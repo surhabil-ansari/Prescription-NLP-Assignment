@@ -12,7 +12,7 @@ This project extracts structured information from raw prescription text using a 
 
 # 2. NLP Processing
 
-* Used spaCy for basic text processing and tokenization
+* Performed basic text processing using normalization and rule-based techniques
 
 # 3. Information Extraction
 
